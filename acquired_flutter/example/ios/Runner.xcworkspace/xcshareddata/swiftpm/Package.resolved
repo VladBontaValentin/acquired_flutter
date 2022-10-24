@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "acquired-ios-macos",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AcquiredSupport/Acquired-iOS-MacOS",
+      "state" : {
+        "revision" : "703703c829240e47ddd6899142b0eac80c4f7b07",
+        "version" : "1.0.4"
+      }
+    },
+    {
+      "identity" : "trustkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/datatheorem/TrustKit",
+      "state" : {
+        "branch" : "master",
+        "revision" : "65d573e0e2687ea91ab0b1be377f9dd3eb1c2785"
+      }
+    }
+  ],
+  "version" : 2
+}
